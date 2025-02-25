@@ -13,7 +13,7 @@ Este projeto utiliza os modelos desenvolvidos no Trabalho 2 (Livraria) e expande
 
 ### Com o projeto rodando
 
-- Acesse **http://localhost:8080/docs/docs:** para a documentação interativa via Swagger UI, onde poderá para testar a API através da interface.
+- Acesse **http://localhost:8080/docs:** para a documentação interativa via Swagger UI, onde poderá para testar a API através da interface.
 
 ## Requisitos e Conformidade
 
