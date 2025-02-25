@@ -13,7 +13,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api")
-public class LibraryController {
+public class LibraryController implements LibraryControllerInterface {
 
   @Autowired
   private LibraryService libraryService;

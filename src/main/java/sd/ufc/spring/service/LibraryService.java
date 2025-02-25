@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Service
-public class LibraryService {
+public class LibraryService implements LibraryServiceInterface {
   private Library library;
 
   public LibraryService() {
