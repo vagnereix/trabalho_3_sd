@@ -4,6 +4,17 @@
 
 Este projeto utiliza os modelos desenvolvidos no Trabalho 2 (Livraria) e expande as funcionalidades, disponibilizando endpoints HTTP para criação e listagem dos itens (livros e revistas).
 
+## Endpoints Disponíveis
+
+- **POST /api/books:** Adiciona um novo livro.
+- **GET /api/books:** Lista todos os livros.
+- **POST /api/magazines:** Adiciona uma nova revista.
+- **GET /api/magazines:** Lista todas as revistas.
+
+### Com o projeto rodando
+
+- Acesse **http://localhost:8080/docs/docs:** para a documentação interativa via Swagger UI, onde poderá para testar a API através da interface.
+
 ## Requisitos e Conformidade
 
 - **Mínimo de 4 POJOs:**  
